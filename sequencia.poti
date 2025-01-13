@@ -1,0 +1,8 @@
+# Criado por Pietra Riane
+
+var i, j := 1, 60
+enquanto j >= 0 faça
+  escreva "I={i} J={j}"
+  i := i + 3
+  j := j - 5
+fim

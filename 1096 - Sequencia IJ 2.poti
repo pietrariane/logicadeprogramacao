@@ -1,8 +1,8 @@
 # Criado por Pietra Riane
 
 para i de [1,3,5,7,9] faça
-	para j de [7,6,5] faça
-    escreva "I={i}  J={j}"
-    fim
+   para j de [7,6,5] faça
+   escreva "I={i}  J={j}"
+   fim
 fim
 
